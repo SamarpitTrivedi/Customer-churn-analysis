@@ -68,7 +68,7 @@ This project is open-sourced under the [MIT License](https://choosealicense.com/
 ## 📬 Contact
 
 - GitHub: [Samarpit](https://github.com/samarpittrivedi)
-- LinkedIn: [Samarpit Verma](https://www.linkedin.com/in/samarpittrivedi)
+- LinkedIn: [Samarpit Trivedi](https://www.linkedin.com/in/samarpittrivedi)
 - Email: [samarpittrivedi2004@gmail.com](mailto:samarpittrivedi2004@gmail.com)
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
